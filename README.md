@@ -53,8 +53,7 @@ Before deploying, ensure the following:
 
 - Terraform is installed
 - AWS CLI is configured with valid credentials
-- You are using the `us-east-1` region
-- An EC2 key pair named `aws-login-us1` exists in the region
+- An EC2 key pair named `aws-login-us1` exists in the region or use any key that exists in the region.
 
 
 ## Deployment Steps
